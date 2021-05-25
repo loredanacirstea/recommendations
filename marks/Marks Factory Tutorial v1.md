@@ -4,6 +4,9 @@
 
 This is the Marks Factory. `v1` means version 1.
 
+### Known Issues
+- connecting to the IPFS network and loading marks is sometimes slow: refresh the page.
+
 ### Top Toolbar
 :Button[more]{icon=true} load a recommended mark
 :Button[edit]{icon=true}  enter "edit" mode.
