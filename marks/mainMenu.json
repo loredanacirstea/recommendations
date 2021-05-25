@@ -1,0 +1,59 @@
+[
+    {
+        label: 'Blitz Crypto Class',
+        items: [
+            {
+                label: 'Blitz Crypto Class (Ethereum & ENS) 5 minute Markdown dApps!',
+                value: {
+                    id: 'QmadhiGumnFNeHf8pJge6A2sdunVNXH6VnLuFFvzsAbieC',
+                    protocol: 'ipfs',
+                }
+            },
+            {
+                label: 'Blitz Crypto Class - ERC20 mark',
+                value: {
+                    id: 'QmZFppbGkUb1fmKKAt1m6CNN6U8UVY89maxHB7GsR1EDJ4',
+                    protocol: 'ipfs',
+                }
+            },
+            {
+                label: 'Blitz Crypto Class - from Contract to “Done!”',
+                value: {
+                    id: 'QmcNW3NofDCWYXFAP6QFcnfnMxnGjvVyiz7sMnBVJFyCbE',
+                    protocol: 'ipfs',
+                }
+            }
+        ]
+    },
+    {
+        label: 'Scientific Calculator',
+        items: [
+            {
+                label: 'Scientific Calculator Mark on Ethereum',
+                value: {
+                    id: 'QmVkW6poYoPw4x5hnakXNdyT1ygGksmbLsxmFRxP5REJKJ',
+                    protocol: 'ipfs',
+                }
+            },
+            {
+                label: 'Scientific Calculator on Ethereum: Quasi (rational numbers)',
+                value: {
+                    id: 'Qmd2bPdZTkdQKiWNeukoirNq6byjjzW5yND2M4msnL1uDc',
+                    protocol: 'ipfs',
+                }
+            }
+        ],
+    },
+    {
+        label: 'Payments',
+        items: [
+            {
+                label: 'Payment v1',
+                value: {
+                    id: 'QmPMwmEwZKQ12ipTaezA5ESBN2eVVxnWfv6eL2vha4WLzZ',
+                    protocol: 'ipfs',
+                }
+            }
+        ]
+    }
+]
