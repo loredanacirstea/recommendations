@@ -1,0 +1,26 @@
+[
+    {
+        "label": "Introducere",
+        "items": [
+            {
+                "label": "Tutorial Marks Factory v1",
+                "value": {
+                    "id": "QmeZ8pfrBwVbPex6Amm4AJiWw1bh19P1kAJJg1DnDTGVkE",
+                    "protocol": "ipfs"
+                }
+            }
+        ]
+    },
+    {
+        "label": "Plăți",
+        "items": [
+            {
+                "label": "Plăți v1",
+                "value": {
+                    "id": "QmSuviHDr47Sti1Zd3G5KLCQbAbh3mTEotXCGh8DGw9AVC",
+                    "protocol": "ipfs"
+                }
+            }
+        ]
+    }
+]
