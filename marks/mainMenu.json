@@ -5,7 +5,7 @@
             {
                 "label": "Marks Factory Tutorial v1",
                 "value": {
-                    "id": "QmU9zVsjwJHkG4TRe2maqiXsrvvHYEfjkXuWn5ybvRpxuj",
+                    "id": "QmcF1U3YdosFuPVFJ6o2zJUFif5WN9ByNQpVEj7gdSy56U",
                     "protocol": "ipfs"
                 }
             }
@@ -63,6 +63,25 @@
                 "label": "Payment v1",
                 "value": {
                     "id": "QmfFPi6EutBU2kdQExT57qV4aWtRx7KyrXnVnvQBuEme6k",
+                    "protocol": "ipfs"
+                }
+            }
+        ]
+    },
+    {
+        "label": "Whistleblowers",
+        "items": [
+            {
+                "label": "Whistleblowers Map v1",
+                "value": {
+                    "id": "QmW1KRR4ALPpxCzDj7pPZZCLWW111gyjLdFz5sri7VqnMC",
+                    "protocol": "ipfs"
+                }
+            },
+            {
+                "label": "Whistleblowers v1",
+                "value": {
+                    "id": "QmcXrhosYo2bPXcXYkRg7V9Nv7UmrhLETqahcewWhM63ZZ",
                     "protocol": "ipfs"
                 }
             }
