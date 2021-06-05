@@ -69,19 +69,19 @@
         ]
     },
     {
-        "label": "Whistleblowers",
+        "label": "Tikkun Olam",
         "items": [
             {
-                "label": "Whistleblowers Map v1",
+                "label": "Tikkun Olam Map v1",
                 "value": {
-                    "id": "QmXq4zne6sbse69crCuPvT8jEuxh3htrVaiTehRFPKYLyx",
+                    "id": "QmXwmuVrFfTVPZksPwycz4zJTSEbiAGjQvBCq11icswLzD",
                     "protocol": "ipfs"
                 }
             },
             {
-                "label": "Whistleblowers v1",
+                "label": "Tikkun Olam v1",
                 "value": {
-                    "id": "QmcXrhosYo2bPXcXYkRg7V9Nv7UmrhLETqahcewWhM63ZZ",
+                    "id": "QmcQybaYRx8jDHK5JrWCQPKqU6NeotXDd2nKbSN9kPjq4C",
                     "protocol": "ipfs"
                 }
             }
