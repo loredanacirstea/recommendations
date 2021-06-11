@@ -72,16 +72,9 @@
         "label": "Tikkun Olam",
         "items": [
             {
-                "label": "Tikkun Olam Map v1",
+                "label": "Tikkun Olam - rectify the world - v1",
                 "value": {
-                    "id": "QmXwmuVrFfTVPZksPwycz4zJTSEbiAGjQvBCq11icswLzD",
-                    "protocol": "ipfs"
-                }
-            },
-            {
-                "label": "Tikkun Olam v1",
-                "value": {
-                    "id": "QmcQybaYRx8jDHK5JrWCQPKqU6NeotXDd2nKbSN9kPjq4C",
+                    "id": "QmaPHioZKurHjvnp2nSPG4orURaY7LVgKNiZPNAomTN5fw",
                     "protocol": "ipfs"
                 }
             }
