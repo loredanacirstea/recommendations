@@ -8,6 +8,13 @@
                     "id": "QmcF1U3YdosFuPVFJ6o2zJUFif5WN9ByNQpVEj7gdSy56U",
                     "protocol": "ipfs"
                 }
+            },
+            {
+                "label": "Marks Factory Kitchen Sink v1",
+                "value": {
+                    "id": "QmZfLZNHJShnnPtuMsRAqiXjGoLW9r1VvgUy5P9dmicLjX",
+                    "protocol": "ipfs"
+                }
             }
         ]
     },
