@@ -15,6 +15,20 @@
                     "id": "QmZfLZNHJShnnPtuMsRAqiXjGoLW9r1VvgUy5P9dmicLjX",
                     "protocol": "ipfs"
                 }
+            },
+            {
+                "label": "Reusable Component v1",
+                "value": {
+                    "id": "QmaRg6wTf3UK2GRnc7ie1rbfgVJMHuRMS7QSfPP5YyPUSp",
+                    "protocol": "ipfs"
+                }
+            },
+            {
+                "label": "SVG Examples v1",
+                "value": {
+                    "id": "QmUKpordCjYAB38iErCxPxKNoeftTAQs6qzqYrzUcjvmWb",
+                    "protocol": "ipfs"
+                }
             }
         ]
     },
